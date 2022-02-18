@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+
+    <string name="improvehealth_heading">Improve Health</string>
+    <string name="stayfit_heading">Stay fit </string>
+    <string name="healthylifestyle_heading">Healthy lifestyle</string>
+    <string name="improvehealth_description">Improve Health description</string>
+    <string name="stayfit_description">Improve Health description </string>
+    <string name="healthylifestyle_description">Improve Health description </string>
+
+    <string name="navigation_drawer_open">open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+    <string name="Aboutus">This application is Fitness App act as a virtual personal
+trainer, guide user every workout. All exercises are feature with
+clear instructions using Gif images.
+    </string>
+
+
+</resources>

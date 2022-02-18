@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    android:padding="16dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:background="@color/design_default_color_secondary_variant"
+    android:layout_width="match_parent"
+    android:layout_height="176dp">
+
+    <ImageView
+        android:src="@drawable/gym_b"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </ImageView>
+    <TextView
+        android:id="@+id/emailtext"
+        android:paddingTop="10dp"
+        android:text="this is the unofficial text"
+        android:textSize="12dp"
+        android:textColor="@color/design_default_color_on_primary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "313935414405",
+    "project_id": "fitness-app-c2327",
+    "storage_bucket": "fitness-app-c2327.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313935414405:android:11547f404c565cb55f55ec",
+        "android_client_info": {
+          "package_name": "com.abhay.fitnessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313935414405-s3j31kt386kut4nrekltgv3i0ssmelu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhay.fitnessapp",
+            "certificate_hash": "2cc37c7a46d79e97ebfb7970cfc460fc0973a020"
+          }
+        },
+        {
+          "client_id": "313935414405-o77asm5tj02h23551p59igdob1i187uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvC56ndYQ14YV6Reu0T1ZqCoRjY1rN5uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313935414405-o77asm5tj02h23551p59igdob1i187uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

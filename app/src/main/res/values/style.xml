@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="Myfitness" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+
+        <item name="colorPrimary">#00B0FF</item>
+        <item name="colorSecondary">@color/darkskyblue</item>
+        <item name="colorAccent" >@color/light_blue</item>
+        <item name="colorPrimaryVariant">@color/skyblue</item>
+
+
+    </style>
+</resources>

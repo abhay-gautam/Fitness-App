@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="20dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Next_Activity">
+
+    <ImageView
+        android:id="@+id/imagenext"
+        android:layout_width="390dp"
+        android:layout_height="235dp"
+        android:src="@drawable/gym_p"
+        android:background="@color/white"
+        android:layout_marginLeft="-40dp"
+
+        tools:layout_editor_absoluteX="142dp"
+        tools:layout_editor_absoluteY="54dp"
+        />
+
+    <TextView
+        android:id="@+id/titlenext"
+        android:text="@string/app_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="24dp"
+        android:textFontWeight="@android:integer/status_bar_notification_info_maxnum"
+        android:forceDarkAllowed="true"
+        android:textColor="@color/black"
+        android:textSize="24dp"
+        android:layout_marginTop="20dp"
+        tools:layout_editor_absoluteY="279dp" />
+
+    <TextView
+        android:id="@+id/descriptionnext"
+        android:text="Complete three sets of each exercise, resting for one to two minutes between sets. Aim to push out 10 to 15 reps, but if that's beyond your chest efforts, just do the best you can."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="16dp"
+        android:layout_marginTop="20dp"
+        android:textSize="19dp"
+        tools:layout_editor_absoluteY="346dp" />
+</LinearLayout>
